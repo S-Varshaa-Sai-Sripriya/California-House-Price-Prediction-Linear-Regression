@@ -1,0 +1,4 @@
+data_path: "artifacts/data.csv"
+model_path: "artifacts/model.pkl"
+test_size: 0.2
+random_state: 42
